@@ -1,0 +1,43 @@
+Timestamp: 2024-12-22 15:38:54, Class: laptop, Track ID: 1, Bounding Box: [201, 0, 965, 396], Confidence: 0.39231735467910767
+Timestamp: 2024-12-22 15:38:54, Class: tv, Track ID: 2, Bounding Box: [197, 0, 965, 397], Confidence: 0.34812963008880615
+Timestamp: 2024-12-22 15:39:02, Class: laptop, Track ID: 12, Bounding Box: [181, 58, 913, 455], Confidence: 0.3768642544746399
+Timestamp: 2024-12-22 15:39:10, Class: person, Track ID: 15, Bounding Box: [799, 1, 1018, 194], Confidence: 0.47089213132858276
+Timestamp: 2024-12-22 15:39:13, Class: person, Track ID: 16, Bounding Box: [764, 1, 1017, 174], Confidence: 0.3360113501548767
+Timestamp: 2024-12-22 15:39:13, Class: tv, Track ID: 17, Bounding Box: [133, 0, 946, 429], Confidence: 0.36900562047958374
+Timestamp: 2024-12-22 15:39:32, Class: laptop, Track ID: 24, Bounding Box: [38, 8, 1015, 492], Confidence: 0.5634354948997498
+Timestamp: 2024-12-22 15:39:38, Class: laptop, Track ID: 29, Bounding Box: [369, 4, 1020, 493], Confidence: 0.5115870237350464
+Timestamp: 2024-12-22 15:39:40, Class: tv, Track ID: 30, Bounding Box: [340, 0, 984, 407], Confidence: 0.3471660017967224
+Timestamp: 2024-12-22 15:39:42, Class: tv, Track ID: 34, Bounding Box: [155, 2, 847, 488], Confidence: 0.4601459503173828
+Timestamp: 2024-12-22 15:39:47, Class: laptop, Track ID: 40, Bounding Box: [164, 183, 724, 485], Confidence: 0.5632119178771973
+Timestamp: 2024-12-22 15:39:48, Class: laptop, Track ID: 43, Bounding Box: [0, 159, 242, 445], Confidence: 0.8890488743782043
+Timestamp: 2024-12-22 15:39:48, Class: chair, Track ID: 44, Bounding Box: [770, 158, 1020, 492], Confidence: 0.6106871366500854
+Timestamp: 2024-12-22 15:39:48, Class: cell phone, Track ID: 45, Bounding Box: [63, 447, 271, 499], Confidence: 0.4948216676712036
+Timestamp: 2024-12-22 15:39:49, Class: chair, Track ID: 47, Bounding Box: [470, 295, 565, 464], Confidence: 0.468504935503006
+Timestamp: 2024-12-22 15:39:50, Class: keyboard, Track ID: 51, Bounding Box: [218, 185, 457, 275], Confidence: 0.31096285581588745
+Timestamp: 2024-12-22 15:40:01, Class: chair, Track ID: 58, Bounding Box: [449, 318, 625, 454], Confidence: 0.4883055090904236
+Timestamp: 2024-12-22 15:40:04, Class: cup, Track ID: 68, Bounding Box: [264, 169, 314, 219], Confidence: 0.3404493033885956
+Timestamp: 2024-12-22 15:40:07, Class: sink, Track ID: 73, Bounding Box: [151, 170, 484, 313], Confidence: 0.43796083331108093
+Timestamp: 2024-12-22 15:40:11, Class: cell phone, Track ID: 82, Bounding Box: [21, 445, 240, 499], Confidence: 0.3600982129573822
+Timestamp: 2024-12-22 15:40:13, Class: chair, Track ID: 86, Bounding Box: [465, 326, 650, 494], Confidence: 0.37857213616371155
+Timestamp: 2024-12-22 15:40:15, Class: bed, Track ID: 88, Bounding Box: [1, 184, 503, 494], Confidence: 0.30905771255493164
+Timestamp: 2024-12-22 15:40:24, Class: person, Track ID: 107, Bounding Box: [477, 206, 987, 494], Confidence: 0.5323086977005005
+Timestamp: 2024-12-22 15:40:24, Class: book, Track ID: 109, Bounding Box: [1, 257, 120, 415], Confidence: 0.4272089898586273
+Timestamp: 2024-12-22 15:40:24, Class: cup, Track ID: 112, Bounding Box: [157, 133, 215, 188], Confidence: 0.39416423439979553
+Timestamp: 2024-12-22 15:40:24, Class: chair, Track ID: 113, Bounding Box: [706, 181, 946, 365], Confidence: 0.5142526030540466
+Timestamp: 2024-12-22 15:40:26, Class: chair, Track ID: 118, Bounding Box: [297, 221, 585, 494], Confidence: 0.44211599230766296
+Timestamp: 2024-12-22 15:40:27, Class: chair, Track ID: 122, Bounding Box: [335, 298, 472, 487], Confidence: 0.3647860586643219
+Timestamp: 2024-12-22 15:40:28, Class: book, Track ID: 127, Bounding Box: [41, 167, 403, 292], Confidence: 0.3202962875366211
+Timestamp: 2024-12-22 15:40:29, Class: chair, Track ID: 129, Bounding Box: [451, 327, 608, 492], Confidence: 0.37154126167297363
+Timestamp: 2024-12-22 15:40:30, Class: laptop, Track ID: 135, Bounding Box: [0, 276, 225, 480], Confidence: 0.7242368459701538
+Timestamp: 2024-12-22 15:40:30, Class: sink, Track ID: 138, Bounding Box: [149, 276, 476, 385], Confidence: 0.3458102345466614
+Timestamp: 2024-12-22 15:40:31, Class: laptop, Track ID: 140, Bounding Box: [0, 248, 224, 450], Confidence: 0.8958497643470764
+Timestamp: 2024-12-22 15:40:31, Class: chair, Track ID: 141, Bounding Box: [441, 224, 1019, 495], Confidence: 0.5494465231895447
+Timestamp: 2024-12-22 15:40:31, Class: laptop, Track ID: 142, Bounding Box: [0, 248, 131, 440], Confidence: 0.38657650351524353
+Timestamp: 2024-12-22 15:40:31, Class: person, Track ID: 145, Bounding Box: [464, 219, 1015, 495], Confidence: 0.4417593479156494
+Timestamp: 2024-12-22 15:40:32, Class: chair, Track ID: 151, Bounding Box: [819, 248, 1017, 493], Confidence: 0.34895002841949463
+Timestamp: 2024-12-22 15:40:33, Class: mouse, Track ID: 152, Bounding Box: [32, 238, 111, 268], Confidence: 0.4490407407283783
+Timestamp: 2024-12-22 15:40:33, Class: chair, Track ID: 153, Bounding Box: [394, 355, 539, 490], Confidence: 0.4391086995601654
+Timestamp: 2024-12-22 15:40:37, Class: book, Track ID: 164, Bounding Box: [197, 257, 456, 349], Confidence: 0.32406914234161377
+Timestamp: 2024-12-22 15:40:41, Class: chair, Track ID: 171, Bounding Box: [492, 0, 1017, 295], Confidence: 0.45387545228004456
+Timestamp: 2024-12-22 15:40:41, Class: cell phone, Track ID: 172, Bounding Box: [177, 42, 357, 138], Confidence: 0.5159550309181213
+Timestamp: 2024-12-22 15:40:42, Class: laptop, Track ID: 173, Bounding Box: [0, 0, 275, 79], Confidence: 0.7649792432785034
